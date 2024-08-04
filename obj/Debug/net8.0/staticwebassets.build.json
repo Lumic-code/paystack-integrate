@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u7NCvgYKer0WVFSOuRFZX+qUPNbeZgAl43u8wuOaF9o=",
+  "Source": "PaystackIntegrateAPI",
+  "BasePath": "_content/PaystackIntegrateAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
